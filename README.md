@@ -12,7 +12,7 @@
 dependencies: 
   dio_log : ^2.0.3
 ```
-### [github](https://github.com/flutterplugin/dio_log)
+### [github](https://github.com/LiuHangqi/dio_log.git)
 ```
 dio_log:
   git:
